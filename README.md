@@ -8,3 +8,6 @@
 
 ### 3. Danh sách người dùng
 <img src="https://github.com/TaiTau/Smart-Traffic-App/blob/main/English/Resources/Assets.xcassets/Picture2.imageset/Picture2.png?raw=true" alt="home_page" width="250" />
+
+### 4. Thêm camera
+<img src="https://github.com/TaiTau/Smart-Traffic-App/blob/main/English/Resources/Assets.xcassets/Image%203.imageset/Image.png?raw=true" alt="home_page" width="250" />
