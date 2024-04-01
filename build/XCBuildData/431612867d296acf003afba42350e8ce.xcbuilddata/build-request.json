@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9825ec865d5b516a16dc3d043ef8158c07"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9873d2f7f3c0ba6d1fb2b8b6f08bbbf48f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bc39df6f5be561f6762c9328a30641ff"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98760607f4bfaa4b4bb12fcd01089946ad"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986a2f6f764e3a20d4144b119094ea96be"
+    }
+  ],
+  "containerPath" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ifx/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ifx/Library/Developer/Xcode/DerivedData/Pods-ditonoqkkylhwxbdadyvvxaycdxf/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ifx/Library/Developer/Xcode/DerivedData/Pods-ditonoqkkylhwxbdadyvvxaycdxf/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

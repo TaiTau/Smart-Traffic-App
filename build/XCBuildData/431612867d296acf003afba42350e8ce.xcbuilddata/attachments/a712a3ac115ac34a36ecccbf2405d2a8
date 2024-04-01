@@ -1,0 +1,55 @@
+{
+  "" : {
+    "const-values" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master.swiftconstvalues",
+    "dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master.d",
+    "diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master.dia",
+    "emit-module-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/ViettelMapGeocoder-master.swiftdeps"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/CoreLocation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/CoreLocation.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/CoreLocation.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/CoreLocation.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBAdminResult.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBAdminResult.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBAdminResult.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBAdminResult.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBGeocodeOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocodeOptions.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocodeOptions.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocodeOptions.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBGeocoder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocoder.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocoder.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeocoder.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBGeoResult.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeoResult.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeoResult.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBGeoResult.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBHistories.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBHistories.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBHistories.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBHistories.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBPlacemark.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemark.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemark.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemark.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBPlacemarkScope.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemarkScope.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemarkScope.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBPlacemarkScope.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapGeocoder/MapboxGeocoder/MBRectangularRegion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBRectangularRegion.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBRectangularRegion.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapGeocoder.build/Objects-normal/arm64/MBRectangularRegion.o"
+  }
+}

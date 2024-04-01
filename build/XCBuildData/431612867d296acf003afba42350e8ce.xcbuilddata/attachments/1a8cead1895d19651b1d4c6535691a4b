@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_Smart_TrafficVersionString[];
+ extern const double Pods_Smart_TrafficVersionNumber;
+
+ const unsigned char Pods_Smart_TrafficVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Smart_Traffic  PROJECT:Pods-1" "\n";
+ const double Pods_Smart_TrafficVersionNumber __attribute__ ((used)) = (double)1.;

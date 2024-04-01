@@ -1,0 +1,165 @@
+{
+  "" : {
+    "const-values" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master.swiftconstvalues",
+    "dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master.d",
+    "diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master.dia",
+    "emit-module-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/ViettelMapDirections-master.swiftdeps"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Extensions/Array.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Array.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Array.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Array.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Extensions/CLLocationCoordinate2D.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/CLLocationCoordinate2D.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/CLLocationCoordinate2D.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/CLLocationCoordinate2D.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Extensions/Double.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Double.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Double.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/Double.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Extensions/HTTPURLResponse.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/HTTPURLResponse.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/HTTPURLResponse.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/HTTPURLResponse.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Extensions/String.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/String.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/String.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/String.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Match/MBMatch.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatch.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatch.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatch.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Match/MBMatchOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatchOptions.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatchOptions.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBMatchOptions.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/Match/MBTracepoint.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBTracepoint.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBTracepoint.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBTracepoint.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBAttribute.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBAttribute.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBAttribute.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBAttribute.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBComponentRepresentable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBComponentRepresentable.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBComponentRepresentable.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBComponentRepresentable.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBCongestion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCongestion.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCongestion.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCongestion.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBCoordinateBounds.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCoordinateBounds.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCoordinateBounds.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBCoordinateBounds.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBDirections.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirections.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirections.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirections.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBDirectionsOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsOptions.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsOptions.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsOptions.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBDirectionsResult.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsResult.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsResult.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBDirectionsResult.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBIntersection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBIntersection.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBIntersection.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBIntersection.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBLane.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLane.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLane.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLane.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBLaneIndication.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndication.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndication.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndication.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBLaneIndicationComponent.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndicationComponent.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndicationComponent.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBLaneIndicationComponent.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBRoadClasses.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoadClasses.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoadClasses.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoadClasses.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBRoute.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoute.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoute.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRoute.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBRouteLeg.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteLeg.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteLeg.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteLeg.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBRouteOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteOptions-2efb119ebb550258d6dd6b15e9f4e19a.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteOptions-2efb119ebb550258d6dd6b15e9f4e19a.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteOptions-2efb119ebb550258d6dd6b15e9f4e19a.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBRouteStep.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteStep.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteStep.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBRouteStep.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBSpokenInstruction.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBSpokenInstruction.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBSpokenInstruction.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBSpokenInstruction.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBVisualInstruction.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstruction.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstruction.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstruction.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBVisualInstructionBanner.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionBanner.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionBanner.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionBanner.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBVisualInstructionComponent.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionComponent.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionComponent.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionComponent.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBVisualInstructionType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionType.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionType.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBVisualInstructionType.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/MBWaypoint.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBWaypoint.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBWaypoint.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/MBWaypoint.o"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/ViettelMapDirections/Sources/MapboxDirections/OfflineDirections.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/OfflineDirections.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/OfflineDirections.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/Objects-normal/arm64/OfflineDirections.o"
+  }
+}

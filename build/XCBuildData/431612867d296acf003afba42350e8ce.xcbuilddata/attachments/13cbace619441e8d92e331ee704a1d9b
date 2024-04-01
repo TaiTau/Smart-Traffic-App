@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Release-iphoneos/ViettelMapDirections/MapboxDirections.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Release-iphoneos/ViettelMapDirections/MapboxDirections.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "MapboxDirections-Swift.h",
+      'external-contents': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/ViettelMapDirections.build/unextended-interface-header.h",
+    }]
+    }]
+}

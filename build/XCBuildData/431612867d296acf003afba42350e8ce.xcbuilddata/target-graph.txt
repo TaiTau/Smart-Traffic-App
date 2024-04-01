@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+Target 'Pods-Smart Traffic' in project 'Pods'
+➜ Explicit dependency on target 'Polyline' in project 'Pods'
+➜ Explicit dependency on target 'ViettelMapDirections' in project 'Pods'
+➜ Explicit dependency on target 'ViettelMapGeocoder' in project 'Pods'
+➜ Explicit dependency on target 'ViettelMapSDK' in project 'Pods'
+Target 'ViettelMapGeocoder' in project 'Pods'
+➜ Explicit dependency on target 'ViettelMapSDK' in project 'Pods'
+Target 'ViettelMapSDK' in project 'Pods' (no dependencies)
+Target 'ViettelMapDirections' in project 'Pods'
+➜ Explicit dependency on target 'Polyline' in project 'Pods'
+Target 'Polyline' in project 'Pods' (no dependencies)

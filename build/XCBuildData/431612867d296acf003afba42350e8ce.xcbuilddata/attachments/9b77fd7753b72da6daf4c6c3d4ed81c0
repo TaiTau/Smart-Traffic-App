@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master.swiftconstvalues",
+    "dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master.d",
+    "diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master.dia",
+    "emit-module-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline-master.swiftdeps"
+  },
+  "/Users/ifx/Desktop/DoAn/Traffic-Light App/Pods/Polyline/Sources/Polyline/Polyline.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline.o",
+    "llvm-bc" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline.bc",
+    "object" : "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/Objects-normal/arm64/Polyline.o"
+  }
+}

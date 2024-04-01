@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Release-iphoneos/Polyline/Polyline.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Release-iphoneos/Polyline/Polyline.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Polyline-Swift.h",
+      'external-contents': "/Users/ifx/Desktop/DoAn/Traffic-Light App/build/Pods.build/Release-iphoneos/Polyline.build/unextended-interface-header.h",
+    }]
+    }]
+}
