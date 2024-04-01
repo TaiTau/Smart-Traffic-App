@@ -1,0 +1,40 @@
+ [ { "code" : "AF",
+  "name" : "Camera đường Xuân Đỉnh"
+  },
+  { "code" : "AX",
+  "name" : "Camera đường Phạm Văn Đồng"
+  },
+  { "code" : "AL",
+  "name" : "Camera đường Hoàng Quốc Việt"
+  },
+  { "code" : "DZ",
+  "name" : "Camera 1"
+  },
+  { "code" : "AS",
+  "name" : "Camera 5"
+  },
+  { "code" : "AD",
+  "name" : "Camera 7"
+  },
+  { "code" : "AO",
+  "name" : "Camera 99"
+  },
+  { "code" : "AI",
+  "name" : "Camera 100"
+  },
+  { "code" : "AQ",
+  "name" : "Camera 200"
+  },
+  { "code" : "AG",
+  "name" : "Camera 123"
+  },
+  { "code" : "AR",
+  "name" : "Camera 789"
+  },
+  { "code" : "AM",
+  "name" : "Camera A1B2"
+  },
+  { "code" : "AW",
+  "name" : "Camera BBB"
+  }
+  ]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ListUserVC" customModule="English" customModuleProvider="target">
+            <connections>
+                <outlet property="lblTitle" destination="30W-M9-Fcd" id="Lf6-kj-CTU"/>
+                <outlet property="tbvUser" destination="LrV-38-95K" id="cJ5-mO-QGI"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Danh sách người dùng" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="30W-M9-Fcd">
+                    <rect key="frame" x="111" y="85" width="171" height="22"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BKp-kO-C64">
+                    <rect key="frame" x="10" y="85" width="58" height="22"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title=" Back" image="chevron.backward" catalog="system">
+                        <color key="titleColor" systemColor="tintColor"/>
+                    </state>
+                    <connections>
+                        <action selector="actionBack:" destination="-1" eventType="touchUpInside" id="78Y-So-qvu"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="LrV-38-95K">
+                    <rect key="frame" x="20" y="127" width="353" height="641"/>
+                    <color key="backgroundColor" red="0.93725490199999995" green="0.95294117649999999" blue="0.97254901959999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="1s0-5f-ezV"/>
+                        <outlet property="delegate" destination="-1" id="rd0-9P-q9S"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" red="0.93725490196078431" green="0.95294117647058818" blue="0.97254901960784312" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="LrV-38-95K" firstAttribute="top" secondItem="BKp-kO-C64" secondAttribute="bottom" constant="20" id="EIQ-WP-ENQ"/>
+                <constraint firstItem="30W-M9-Fcd" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="Qtv-e9-T9I"/>
+                <constraint firstItem="30W-M9-Fcd" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="85" id="aoZ-J8-99j"/>
+                <constraint firstItem="LrV-38-95K" firstAttribute="top" secondItem="30W-M9-Fcd" secondAttribute="bottom" constant="20" id="ig2-y6-vFb"/>
+                <constraint firstItem="LrV-38-95K" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="oUi-2Q-5Mg"/>
+                <constraint firstItem="BKp-kO-C64" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="qBo-Rw-o6V"/>
+                <constraint firstItem="BKp-kO-C64" firstAttribute="centerY" secondItem="30W-M9-Fcd" secondAttribute="centerY" id="vrN-Fe-loh"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="LrV-38-95K" secondAttribute="bottom" constant="50" id="w9f-Ls-0U8"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="LrV-38-95K" secondAttribute="trailing" constant="20" id="ze1-fB-1A6"/>
+            </constraints>
+            <point key="canvasLocation" x="48" y="-12"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="chevron.backward" catalog="system" width="97" height="128"/>
+        <systemColor name="tintColor">
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

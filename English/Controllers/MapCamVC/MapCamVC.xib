@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MapCamVC" customModule="Smart_Traffic" customModuleProvider="target">
+            <connections>
+                <outlet property="btnSave" destination="kH6-qn-o4r" id="DQI-cv-sYJ"/>
+                <outlet property="mapView" destination="veW-ZP-GVi" id="eYv-bZ-9Gu"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="veW-ZP-GVi">
+                    <rect key="frame" x="0.0" y="59" width="393" height="793"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LVM-jg-qLZ">
+                    <rect key="frame" x="9.9999999999999964" y="59" width="57.666666666666657" height="22"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title=" Back" image="chevron.backward" catalog="system">
+                        <color key="titleColor" systemColor="tintColor"/>
+                    </state>
+                    <connections>
+                        <action selector="actionBack:" destination="-1" eventType="touchUpInside" id="dGt-Ew-Chd"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kH6-qn-o4r">
+                    <rect key="frame" x="333" y="59" width="50" height="34"/>
+                    <color key="backgroundColor" red="0.38823529411764707" green="0.40000000000000002" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="IXT-R2-aUC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="Lưu">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <connections>
+                        <action selector="actionSave:" destination="-1" eventType="touchUpInside" id="6xm-pM-3dv"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" red="0.93725490196078431" green="0.95294117647058818" blue="0.97254901960784312" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="kH6-qn-o4r" secondAttribute="trailing" constant="10" id="4OS-F5-hHs"/>
+                <constraint firstItem="LVM-jg-qLZ" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="BlD-UI-Bvf"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="veW-ZP-GVi" secondAttribute="trailing" id="OUb-tJ-VMs"/>
+                <constraint firstItem="veW-ZP-GVi" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="XKG-eI-14h"/>
+                <constraint firstItem="kH6-qn-o4r" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="Yt6-9F-BVE"/>
+                <constraint firstItem="LVM-jg-qLZ" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="aLH-bE-wLQ"/>
+                <constraint firstAttribute="bottom" secondItem="veW-ZP-GVi" secondAttribute="bottom" id="izx-YM-Rgc"/>
+                <constraint firstItem="veW-ZP-GVi" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="vXf-oW-cht"/>
+            </constraints>
+            <point key="canvasLocation" x="-80" y="-11"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="chevron.backward" catalog="system" width="97" height="128"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="tintColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

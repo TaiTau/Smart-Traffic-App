@@ -1,0 +1,5 @@
+
+# Ignore CocoaPods directory
+Pods/
+
+Podfile.lock

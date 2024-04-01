@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="102" id="KGk-i7-Jjw" customClass="VideoTableViewCell" customModule="Smart_Traffic" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="102"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="102"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalCompressionResistancePriority="752" text="Tên video:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Csv-Go-jgz">
+                        <rect key="frame" x="10" y="14" width="73.666666666666671" height="18"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="Người thêm:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uI7-Jr-dje">
+                        <rect key="frame" x="10" y="46" width="88" height="18"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="88" id="lyr-d4-LNk"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Thời gian:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oon-eT-pZb">
+                        <rect key="frame" x="10" y="74" width="70.666666666666671" height="18"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" verticalCompressionResistancePriority="752" text="Label" textAlignment="natural" lineBreakMode="middleTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wJO-89-HtR">
+                        <rect key="frame" x="108" y="10" width="180" height="26"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5VF-au-XF5">
+                        <rect key="frame" x="108" y="46" width="37.333333333333343" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zK7-NA-R11">
+                        <rect key="frame" x="108" y="74" width="37.333333333333343" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Cj-Va-rhF">
+                        <rect key="frame" x="293" y="10" width="20" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="Xs8-A0-G1M"/>
+                            <constraint firstAttribute="width" constant="20" id="lv8-Re-dn3"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="ic_delete"/>
+                        <connections>
+                            <action selector="actionDeleta:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="ESK-aj-xi4"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="zK7-NA-R11" firstAttribute="leading" secondItem="5VF-au-XF5" secondAttribute="leading" id="2g4-6n-jTZ"/>
+                    <constraint firstItem="7Cj-Va-rhF" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="3x5-OW-cRM"/>
+                    <constraint firstItem="wJO-89-HtR" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="Fnl-o7-enK"/>
+                    <constraint firstAttribute="bottom" secondItem="oon-eT-pZb" secondAttribute="bottom" constant="10" id="GGE-UR-X7h"/>
+                    <constraint firstItem="7Cj-Va-rhF" firstAttribute="leading" secondItem="wJO-89-HtR" secondAttribute="trailing" constant="5" id="LfD-20-jps"/>
+                    <constraint firstItem="oon-eT-pZb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="MKw-RJ-WMK"/>
+                    <constraint firstItem="wJO-89-HtR" firstAttribute="leading" secondItem="5VF-au-XF5" secondAttribute="leading" id="MdX-YQ-IAJ"/>
+                    <constraint firstItem="5VF-au-XF5" firstAttribute="centerY" secondItem="uI7-Jr-dje" secondAttribute="centerY" id="RNo-A8-QhB"/>
+                    <constraint firstItem="zK7-NA-R11" firstAttribute="centerY" secondItem="oon-eT-pZb" secondAttribute="centerY" id="ToT-bW-ip6"/>
+                    <constraint firstItem="oon-eT-pZb" firstAttribute="top" secondItem="uI7-Jr-dje" secondAttribute="bottom" constant="10" id="evB-jg-nZw"/>
+                    <constraint firstItem="Csv-Go-jgz" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="fsg-CM-ZK4"/>
+                    <constraint firstItem="uI7-Jr-dje" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="igZ-8z-egq"/>
+                    <constraint firstAttribute="trailing" secondItem="7Cj-Va-rhF" secondAttribute="trailing" constant="7" id="iqU-DP-jsY"/>
+                    <constraint firstItem="5VF-au-XF5" firstAttribute="leading" secondItem="uI7-Jr-dje" secondAttribute="trailing" constant="10" id="lfd-Ar-MnE"/>
+                    <constraint firstItem="5VF-au-XF5" firstAttribute="top" secondItem="wJO-89-HtR" secondAttribute="bottom" constant="10" id="sw5-9B-9h9"/>
+                    <constraint firstItem="wJO-89-HtR" firstAttribute="centerY" secondItem="Csv-Go-jgz" secondAttribute="centerY" id="xa1-Nh-2gD"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="lblCreator" destination="5VF-au-XF5" id="Xo3-dd-Gh1"/>
+                <outlet property="lblDate" destination="zK7-NA-R11" id="YrK-Cm-XC7"/>
+                <outlet property="lblName" destination="wJO-89-HtR" id="Vug-I4-4p8"/>
+            </connections>
+            <point key="canvasLocation" x="54.961832061068698" y="9.1549295774647899"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_delete" width="40" height="40"/>
+    </resources>
+</document>

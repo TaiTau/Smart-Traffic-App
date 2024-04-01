@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BE289114-69DF-4458-B90D-A62108DC7034"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66D8C4E8-3084-498C-BD14-99C263A4E186"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5175AF5-3557-4C36-8366-2CB6E84AFEF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/AddCamera/AddCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "actionBack(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84DA3A9B-679F-4077-A537-23C417F6DB24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "configView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6EC9A0B-8BB7-48DC-B499-7D9C524D67AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/LoginViewController/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "didTapLoginButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A6478E3-AA59-463D-9B7B-12048A7FDF63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/DetectVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "willTransition(to:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C7F90E0-4F37-47C7-BF22-C6E9B79E833A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/DetectVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "willTransition(to:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2510E308-D57F-4A13-8B27-DA67DFF3CA4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/DetectVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "willTransition(to:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6659AEDB-1013-4B2D-8EE9-81A19202C392"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListVideoVC/ListVideoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6659AEDB-1013-4B2D-8EE9-81A19202C392 - df2d66f375f2dffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListVideoVC.numberOfSections(in: __C.UITableView) -&gt; Swift.Int"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListVideoVC/ListVideoVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "6659AEDB-1013-4B2D-8EE9-81A19202C392 - 661be77849069e7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListVideoVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListVideoVC/ListVideoVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "629">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ListUserTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - 3a050640dd6bdc3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.lblPhone.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - beae57f2c66dd84b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.lblPhone.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - 323869767be14f55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.lblPhone.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - 5c1754d2820fb2bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.lblPhone.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - 36fe469245a81068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; English.ListUserTableViewCell"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "A047B3FA-60A2-4B7E-B1FF-A27234AE31D4 - d6035ebc4708a5ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "English.ListUserTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;English.ListUserTableViewCell&gt;"
+                  moduleName = "English"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2329B84-6E13-4FD9-8CED-0A3E0C1EABF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetailCamera/DetailCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "configData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9D2E3C3-C374-4E4C-8270-3954190EAFBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListCamera/ListCameraVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40A19B09-14E4-4019-9D24-54216500DF14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/DetectVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "onTap10SecNext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBFA63B0-5C03-4A53-A768-4383B10BBB05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/ViewModel/ListCameraViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getListCam()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD59FE6E-695D-4F55-B30A-A2576743642F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "handleSingleTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C5CF07F-3A9C-4D48-8892-A79C5786CC54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "filterArea(areas:input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C83CB673-53AB-4A2F-839C-08262541031E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "filterArea(areas:input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FDED63B-EEC7-4775-9F3E-D12EE02A2C27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "filterArea(areas:input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0D97E14-BD5A-4115-B225-D3553CC06389"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "filterArea(areas:input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29C3CB52-572F-4F8C-8DEC-6543C709262E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B24707B6-9051-461E-AB52-4A58E253EECB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MainViewController/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAF5411B-E51F-4260-AE7F-31013F862BF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "mapView(_:didFinishLoading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAF5411B-E51F-4260-AE7F-31013F862BF6 - 4e4c815e46d60941"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "1693">
+               </Location>
+               <Location
+                  uuid = "EAF5411B-E51F-4260-AE7F-31013F862BF6 - 4e4c815e46d60941"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "1673">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF1EAE63-B067-4819-AA02-A7DB690F2A0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "getCurrentMyLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF1EAE63-B067-4819-AA02-A7DB690F2A0E - 6c93afee39bebf01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.getCurrentMyLocation() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "BF1EAE63-B067-4819-AA02-A7DB690F2A0E - 6c93afee39bebf62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.getCurrentMyLocation() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FACBE11-868B-44FE-9A6B-40309B4016BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "mapView(_:didFinishLoading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FACBE11-868B-44FE-9A6B-40309B4016BA - 4e4c815e46d60a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "2523">
+               </Location>
+               <Location
+                  uuid = "4FACBE11-868B-44FE-9A6B-40309B4016BA - 4e4c815e46d60a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "2292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F7772BD-545E-4D88-ACCF-410737C4ADCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "mapView(_:didFinishLoading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F7772BD-545E-4D88-ACCF-410737C4ADCA - 4e4c815e46d609cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "6F7772BD-545E-4D88-ACCF-410737C4ADCA - 4e4c815e46d609cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.mapView(_: __C.MGLMapView, didFinishLoading: __C.MGLStyle) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "657">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B836D74-C95D-487C-A2C9-1A1D5F04B9B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "getCurrentMyLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B836D74-C95D-487C-A2C9-1A1D5F04B9B7 - 6c93afee39bebfac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.getCurrentMyLocation() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  uuid = "1B836D74-C95D-487C-A2C9-1A1D5F04B9B7 - 6c93afee39bebfac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MapVC.getCurrentMyLocation() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "549">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "866B55D7-7F3F-457F-AC20-0CB5534D5F7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "initMap()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20CA8FDD-EA7C-438A-848B-9AAD528CA523"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "setCurrentLatLng()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77DB3BC3-2289-44C9-A0D1-A73D0278086F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/AddCamera/AddCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "actionMap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77DB3BC3-2289-44C9-A0D1-A73D0278086F - 6e8943ccaaebc8f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.AddCamera.actionMap(Any) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/AddCamera/AddCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2307">
+               </Location>
+               <Location
+                  uuid = "77DB3BC3-2289-44C9-A0D1-A73D0278086F - 6e8943ccaaebc8f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.AddCamera.actionMap(Any) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/AddCamera/AddCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3483EE98-EE62-4054-B182-76AFE419ABAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListCamera/ListCameraVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC53E1F9-2654-4F45-875C-E060ADE80BB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListCamera/ListCameraVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34B9E3A9-3CB8-4E6A-9B9F-BE72DE4DC1D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListCamera/ListCameraVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0974847F-E00B-436B-AE0A-CCA32BA4AC54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/DetectVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "viewTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD51F64-A5D6-468F-A856-D8BE333E2361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/ViewModel/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "uploadVideo(name:user_id:camera_id:video_id:fileURL:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AD51F64-A5D6-468F-A856-D8BE333E2361 - 3b9e6dadf8defacb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MainViewModel.uploadVideo(name: Swift.String, user_id: Swift.String, camera_id: Swift.String, video_id: Swift.String, fileURL: Foundation.URL, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/ViewModel/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1728">
+               </Location>
+               <Location
+                  uuid = "2AD51F64-A5D6-468F-A856-D8BE333E2361 - 3b9e6dadf8defaea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.MainViewModel.uploadVideo(name: Swift.String, user_id: Swift.String, camera_id: Swift.String, video_id: Swift.String, fileURL: Foundation.URL, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/ViewModel/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1605">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CF03440-6002-4DF7-8BAB-FF73CD617AAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetailCamera/DetailCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "actionMap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CF03440-6002-4DF7-8BAB-FF73CD617AAF - 92a91af76adefae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.DetailCamVC.actionMap(Any) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetailCamera/DetailCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  uuid = "8CF03440-6002-4DF7-8BAB-FF73CD617AAF - 92a91af76adefae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.DetailCamVC.actionMap(Any) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetailCamera/DetailCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "2354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C0168E2-EC59-4B82-B2D4-9DACF465FB40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListVideoVC/ListVideoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "deleteCell(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D12BF4B4-B2F3-49FC-BA46-B72720A3F073"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListVideoVC/ListVideoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55042A3D-197A-4DBA-B376-C2B5B7B95828"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/ViewModel/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "uploadProfileToServer(image:name:phone:email:password:address:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55042A3D-197A-4DBA-B376-C2B5B7B95828 - c4ab2af39714dca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.SignUpViewModel.uploadProfileToServer(image: __C.UIImage, name: Swift.String, phone: Swift.String, email: Swift.String, password: Swift.String, address: Swift.String) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/ViewModel/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "4041">
+               </Location>
+               <Location
+                  uuid = "55042A3D-197A-4DBA-B376-C2B5B7B95828 - c4ab2af39714dca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.SignUpViewModel.uploadProfileToServer(image: __C.UIImage, name: Swift.String, phone: Swift.String, email: Swift.String, password: Swift.String, address: Swift.String) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/ViewModel/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "3017">
+               </Location>
+               <Location
+                  uuid = "55042A3D-197A-4DBA-B376-C2B5B7B95828 - c4ab2af39714dca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.SignUpViewModel.uploadProfileToServer(image: __C.UIImage, name: Swift.String, phone: Swift.String, email: Swift.String, password: Swift.String, address: Swift.String) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/ViewModel/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "2652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB21C79F-7C64-437F-A57C-031DACF1179E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "setUp(user:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB21C79F-7C64-437F-A57C-031DACF1179E - c8e09d551043162e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ListUserTableViewCell.setUp(user: Smart_Traffic.UserModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+               <Location
+                  uuid = "BB21C79F-7C64-437F-A57C-031DACF1179E - c8e09d551040e9c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ListUserTableViewCell.setUp(user: Smart_Traffic.UserModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/ListUser/Cell/ListUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E71D9EF-6B69-43E3-9004-23F053E322E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "setup(cam:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E71D9EF-6B69-43E3-9004-23F053E322E0 - d72ebe7f98c82b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "3297">
+               </Location>
+               <Location
+                  uuid = "2E71D9EF-6B69-43E3-9004-23F053E322E0 - d72ebe7f98c82b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2860">
+               </Location>
+               <Location
+                  uuid = "2E71D9EF-6B69-43E3-9004-23F053E322E0 - d72ebe7f98c82b65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B804E66B-ACC2-46B5-AECB-E402738E0A75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setup(cam:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B804E66B-ACC2-46B5-AECB-E402738E0A75 - d72ebe7f98c82808"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "453">
+               </Location>
+               <Location
+                  uuid = "B804E66B-ACC2-46B5-AECB-E402738E0A75 - d72ebe7f98c82808"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F8C1F80-C592-43AC-8B44-48AB369E1376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "setup(cam:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F8C1F80-C592-43AC-8B44-48AB369E1376 - d72ebe7f98c82b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2968">
+               </Location>
+               <Location
+                  uuid = "2F8C1F80-C592-43AC-8B44-48AB369E1376 - d72ebe7f98c82b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Smart_Traffic.ImageTableViewCell.setup(cam: Smart_Traffic.ImageModel, index: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/DetectVC/Cell/ImageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2966">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E88C1C9E-582E-4F80-B74E-C714280AC4E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapCamVC/MapCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "addMarkerWithLatLng(latLng:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84B1D1FF-4ED1-4454-8C8F-0F5D5D5E5DB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapCamVC/MapCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84B1D1FF-4ED1-4454-8C8F-0F5D5D5E5DB4 - 7d1facaa9ec836e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Smart_Traffic.ErrorObject&gt;) -&gt; () in Smart_Traffic.MapCamVC.bindViewModel() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapCamVC/MapCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "84B1D1FF-4ED1-4454-8C8F-0F5D5D5E5DB4 - 7d1facaa9ec83686"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Smart_Traffic.ErrorObject&gt;) -&gt; () in Smart_Traffic.MapCamVC.bindViewModel() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapCamVC/MapCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "603">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C3695F3-186A-493C-B64F-CE598CF081EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapCamVC/MapCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EE53D47-5CAE-439D-88D3-7DBA8633EEFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "English/Controllers/MapCamVC/MapCamVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EE53D47-5CAE-439D-88D3-7DBA8633EEFD - 7d1facaa9ec83644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Smart_Traffic.ErrorObject&gt;) -&gt; () in Smart_Traffic.MapCamVC.bindViewModel() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapCamVC/MapCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1870">
+               </Location>
+               <Location
+                  uuid = "9EE53D47-5CAE-439D-88D3-7DBA8633EEFD - 7d1facaa9ec83644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Smart_Traffic.ErrorObject&gt;) -&gt; () in Smart_Traffic.MapCamVC.bindViewModel() -&gt; ()"
+                  moduleName = "Smart Traffic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifx/Desktop/Traffic-Light%20App/English/Controllers/MapCamVC/MapCamVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1666">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
